@@ -1,0 +1,2 @@
+echo "some text" > aNewFile
+vi aNewFile
